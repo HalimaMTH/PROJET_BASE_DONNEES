@@ -19,3 +19,8 @@ Ce projet simule la gestion d'un hôtel, intégrant plusieurs classes (Hôtel, C
 
 - pyhton
 - SQL 
+
+## Les membre du groupe
+
+-  ## MOUTCHOU Halima
+-  ## HAMROUD Nour El Houda
